@@ -18,7 +18,7 @@ body     {
 
 /* styling our header */
 header   {
-  background: #000000;
+  background: #ffffff;
   color: #FFF;
   padding: 20px 30px;
 }
@@ -26,7 +26,7 @@ header   {
 /* logo */
 #logo         {
   display: inline-block;
-  color: #f5f5f5;
+  color: #020101;
   text-decoration: none;
   width: 49%;
 }
@@ -54,7 +54,7 @@ nav ul li {
   display: inline-block;
 }
 nav ul li a    {
-  color: #f9f9f9;
+  color: #020202;
   text-decoration: none;
   display: block;
   padding: 10px 15px;
